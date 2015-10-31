@@ -1,0 +1,7 @@
+C:\Users\saj\Desktop\SoundexHashingFunction\SoundexHashingFunction\Soundex.Tests\bin\Debug\Soundex.Tests.dll
+C:\Users\saj\Desktop\SoundexHashingFunction\SoundexHashingFunction\Soundex.Tests\bin\Debug\Soundex.Tests.pdb
+C:\Users\saj\Desktop\SoundexHashingFunction\SoundexHashingFunction\Soundex.Tests\bin\Debug\SoundexHashingFunction.exe
+C:\Users\saj\Desktop\SoundexHashingFunction\SoundexHashingFunction\Soundex.Tests\bin\Debug\SoundexHashingFunction.pdb
+C:\Users\saj\Desktop\SoundexHashingFunction\SoundexHashingFunction\Soundex.Tests\obj\Debug\Soundex.Tests.csprojResolveAssemblyReference.cache
+C:\Users\saj\Desktop\SoundexHashingFunction\SoundexHashingFunction\Soundex.Tests\obj\Debug\Soundex.Tests.dll
+C:\Users\saj\Desktop\SoundexHashingFunction\SoundexHashingFunction\Soundex.Tests\obj\Debug\Soundex.Tests.pdb
